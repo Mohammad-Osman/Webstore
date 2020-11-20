@@ -1,0 +1,42 @@
+  body {
+    background-color: papayawhip;
+  }
+  hr {
+    /* border-style: dotted none none; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgray;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1{
+    color: saddlebrown;
+  }
+  h3{
+    color: saddlebrown;
+  }
+  h4{
+    color: sienna;
+  }
+
+  .sales{
+    color: red;
+  }
+
+  .Fstyle{
+    font-style: oblique;
+  }
+
+  .rate:hover{
+    color: red;
+    font-style: oblique;
+  }
+
+  #header{
+    font-size: 56px;
+  }
+
+  #footer{
+    color: royalblue;
+    font-size: 22px;
+  }
